@@ -1,0 +1,165 @@
+
+ .h2{
+text-align:center;
+  font-size:30px;
+  font-weight:bold;
+  background-color:black;
+  padding-top:5px;
+  color:white;
+  width:250px;
+  margin:auto;
+  position:relative;
+  top:200px;
+  height:45px;
+  text-shadow: 0 0 10px #bbd43e, 
+  0 0 20px #FFA500, 
+  0 0 30px #FF6347;
+  animation-name:first;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-delay: 2s;
+  
+}
+@keyframes first{
+  0%{
+    width:0px;
+  }
+  25%{
+    width:50px;
+  }
+  50%{
+    width:100px;
+  }
+  75%{
+    width:200px;
+  }
+  100%{
+    width:250px;
+  }
+}
+
+.container1{
+  
+  width:100%;
+  height:600px;
+  background-image:url('https://www.inventiontricks.com/wp-content/uploads/2020/12/splash-3.png');
+  background-attachment: fixed;
+  background-size:100% 100%;
+  background-repeat:no-repeat;
+  
+}
+.container2{
+  background-color:black;
+  color:white;
+  padding:10px;
+  width:100%;
+  margin-top:300px;
+  font-size:20px;
+
+  top:220px;
+  
+}
+
+
+.projects{
+  background-color:black;
+  color:white;
+  text-align:center;
+  width:fit-content;
+  padding:10px;
+  margin-left:350px;
+  margin-top:100px;
+}
+.projectheading{
+  text-align:center;
+  color:white;
+  background-color:black;
+   width:250px;
+   height:45px;
+   padding-top:5px;
+   margin-left:600px;
+   top:50px;
+  position:relative;
+  text-shadow: 0 0 10px #bbd43e, 
+  0 0 20px #FFA500, 
+  0 0 30px #FF6347;
+  margin-top:10px;
+  animation-name:first;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-delay: 2s;
+  
+}
+@keyframes first{
+  0%{
+    width:0px;
+  }
+  25%{
+    width:50px;
+  }
+  50%{
+    width:100px;
+  }
+  75%{
+    width:200px;
+  }
+  100%{
+    width:250px;
+  }
+}
+.container3{
+  background-image:url('https://www.inventiontricks.com/wp-content/uploads/2020/12/splash-3.png');
+background-size:100% 100%;
+height:600px;
+background-attachment: fixed;
+}
+.container4{
+  background-image:url('https://www.inventiontricks.com/wp-content/uploads/2020/12/splash-3.png');
+  width:100%;
+  height:600px;
+  background-attachment: fixed;
+}
+.container5{
+  background-color:black;
+  color:white;
+  margin-top:100px;
+  height:45px;
+  text-align:center;
+}
+.h21{
+  background-color:black;
+  color:white;
+  width:200px;
+  height:45px;
+  padding-top:5px;
+  text-align:center;
+  margin-left:600px;
+  position:relative;
+  top:50px;
+  text-shadow: 0 0 10px #bbd43e, 
+  0 0 20px #FFA500, 
+  0 0 30px #FF6347;
+  animation-name:first;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-delay: 2s;
+  
+}
+@keyframes first{
+  0%{
+    width:0px;
+  }
+  25%{
+    width:50px;
+  }
+  50%{
+    width:100px;
+  }
+  75%{
+    width:200px;
+  }
+  100%{
+    width:250px;
+  }
+}
+

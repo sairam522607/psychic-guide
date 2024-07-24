@@ -1,0 +1,69 @@
+.body{
+  background-color:#00FA9A;
+  margin:20%;
+}
+
+  .fullpage{
+    background-color:#00FA9A;
+    height:10000px;
+  
+    display:block;
+  }
+  .title{
+    text-align: center;
+    font-size:100px;
+    display:block;
+    text-shadow: 5px 5px 10px white;
+    
+  }
+  .image{
+    width:100%;
+    display:block;
+    border:none;
+    
+
+  }
+  .heading{
+    text-align:center;
+  }
+  .info{
+    background-color: rgb(46, 139, 87, 0.25);
+    box-shadow: 20px 20px 20px #98FB98;
+    padding-left:30px;
+    text-align:left;
+    color:black;
+    font-size:25px;
+    margin-left:10px;
+    margin-right:10px;
+    
+  }
+  .about{
+    text-align:center;
+    font-size:50px;
+    font-weight:bold;
+    color:white;
+  }
+  .headings{
+    color:white;
+    text-decoration:underline;
+  }
+  .marriagepic{
+    display:lock;
+    margin-left:500px;
+    margin-bottom:10px;
+    }
+    .graph{
+      margin-left:45px;
+      border-color:black;
+      border-style:solid; 
+      padding-left:5px;
+      padding-right:5px;
+      padding-top:5px;
+      padding-bottom:5px;
+      display:block;
+      margin-bottom:10px;
+    }
+    .link{
+      font-size:30px;
+      padding-left:10px;
+    }
