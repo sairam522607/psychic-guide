@@ -1,0 +1,100 @@
+.outer_body{
+  background-color:black;
+  height:1000px;
+}
+.profile_block{
+  background-color:rgb(43, 40, 40);
+  margin: auto;
+  width: 600px;
+  text-align:center;
+}
+.profile{
+  border-radius: 50%;
+  width:200px;
+  margin-top:10px;
+}
+.name{
+  color:white;
+  font-size: 60px;
+  margin-bottom:0px;
+  text-decoration: none;
+}
+.location{
+  font-size: 23px;
+  margin-top: 10px;
+  color:rgb(205, 205, 40);
+}
+.skill{
+  color:rgb(239, 233, 233);
+  font-style:oblique;
+}
+.git_button{
+  background-color:rgb(82, 79, 79);
+  border-style: hidden;
+  color:white;
+  width:300px;
+  height:50px;
+  border-radius: 10px;
+  font-size: 20px;
+  cursor: pointer;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-bottom:20px;
+}
+.frontend_button{
+  background-color:rgb(82, 79, 79);
+  border-style: hidden;
+  color:white;
+  width:300px;
+  height:50px;
+  border-radius: 10px;
+  font-size: 20px;
+  cursor: pointer;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-bottom:20px;
+}
+.linkedin_button{
+  background-color:rgb(82, 79, 79);
+  border-style: hidden;
+  color:white;
+  width:300px;
+  height:50px;
+  border-radius: 10px;
+  font-size: 20px;
+  cursor: pointer;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-bottom:20px;
+}
+.hackerrank_button{
+  background-color:rgb(82, 79, 79);
+  border-style: hidden;
+  color:white;
+  width:300px;
+  height:50px;
+  border-radius: 10px;
+  font-size: 20px;
+  cursor: pointer;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-bottom:20px;
+}
+.instagram_button{
+  background-color:rgb(82, 79, 79);
+  border-style: hidden;
+  color:white;
+  width:300px;
+  height:50px;
+  border-radius: 10px;
+  font-size: 20px;
+  cursor: pointer;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-bottom:20px;
+}
+.git_button:hover,
+.frontend_button:hover,
+.linkedin_button:hover,
+.hackerrank_button:hover,
+.instagram_button:hover{
+  background-color:yellow;
+  color:black;
+  width:350px;
+  
+}
